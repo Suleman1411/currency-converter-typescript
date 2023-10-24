@@ -18,6 +18,8 @@ A simple command-line tool to convert currency based on exchange rates. This too
 - Interactive command-line interface for user input.
 - Predefined exchange rates provided.
 
+## Getting Started
+
 ### Prerequisites
 
 Before you can use this tool, you need to have the following dependencies installed on your system:
