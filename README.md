@@ -75,4 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note:** This project is for educational and demonstration purposes. The provided exchange rates may not be up-to-date, and it does not interact with live financial systems. Use with caution and verify actual exchange rates for financial transactions.
-```
